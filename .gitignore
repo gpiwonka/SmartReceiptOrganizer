@@ -408,3 +408,4 @@ appsettings.*.json     # Optional: andere Konfig-Dateien wie appsettings.Product
 !appsettings.template.json  # <-- Ausnahme: Dummy-/Template-Datei einchecken
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio
+/SmartReceiptOrganizer/appsettings.json
